@@ -13,8 +13,8 @@ let package = Package(
             targets: ["ConvexAuth0"]),
     ],
     dependencies: [
-      .package(path: "../convex-swift"),
-      .package(url: "https://github.com/auth0/Auth0.swift", branch: "master"),
+      .package(url: "https://github.com/dowski/convex-swift", exact: "0.1.0"),
+      .package(url: "https://github.com/auth0/Auth0.swift", exact: "2.9.0"),
     ],
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.
