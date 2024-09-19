@@ -1,5 +1,5 @@
 {
-  "originHash" : "7ab73cbf8bc1cbefa2cc9034ab9adf368f63bdb48a6c042fe141b95a5c40da4e",
+  "originHash" : "ff00f7af4dd4192a1137477f45308958bc96ce39d7d1e58dc9267fdd3dc0e395",
   "pins" : [
     {
       "identity" : "auth0.swift",
@@ -15,8 +15,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/dowski/convex-swift",
       "state" : {
-        "revision" : "ce2cc7911cf2178ee4a3fb0a12691ab887a60f72",
-        "version" : "0.1.0"
+        "revision" : "fb1387f87f41c4ec3ac77f40aadae3208c7187c4",
+        "version" : "0.2.0"
       }
     },
     {
