@@ -13,7 +13,7 @@ let package = Package(
       targets: ["ConvexAuth0"])
   ],
   dependencies: [
-    .package(url: "https://github.com/get-convex/convex-swift", exact: "0.2.0"),
+    .package(url: "https://github.com/get-convex/convex-swift", "0.2.0"..<"1.0.0"),
     .package(url: "https://github.com/auth0/Auth0.swift", exact: "2.9.0"),
   ],
   targets: [
