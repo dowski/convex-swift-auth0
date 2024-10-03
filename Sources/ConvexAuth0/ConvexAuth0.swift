@@ -30,7 +30,7 @@ public class Auth0Provider: AuthProvider {
     return try await credentialsManager!.credentials()
   }
 
-  public func extractIdToken(authResult: Credentials) -> String {
+  public func extractIdToken(from authResult: Credentials) -> String {
     return authResult.idToken
   }
 
