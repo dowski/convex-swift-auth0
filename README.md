@@ -12,7 +12,7 @@ your app UI.
 ## Getting Started
 
 First of all, if you haven't started a Convex application yet, head over to the
-[Convex Swift quickstart](https://docs.convex.dev/quickstart/swift) to get the 
+[Convex Swift iOS quickstart](https://docs.convex.dev/quickstart/ios) to get the 
 basics down. It will get you up and running with a Convex dev deployment and a
 basic Swift application that communicates with it.
 
